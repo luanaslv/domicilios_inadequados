@@ -1,0 +1,253 @@
+ano,inadequação,região,contagem,valor_percentual
+2016,Abastecimento de água,Maranhão,575.009,45.8
+2016,Abastecimento de água,Piauí,63.866,9.91
+2016,Abastecimento de água,Ceará,577.354,26.81
+2016,Abastecimento de água,Rio Grande do Norte,346.964,41.76
+2016,Abastecimento de água,Paraíba,503.471,52.83
+2016,Abastecimento de água,Pernambuco,1.494.087,59.85
+2016,Abastecimento de água,Alagoas,219.603,29.1
+2016,Abastecimento de água,Sergipe,107.643,19.59
+2016,Abastecimento de água,Bahia,1.188.644,33.29
+2017,Abastecimento de água,Maranhão,531.055,41.38
+2017,Abastecimento de água,Piauí,77.891,11.73
+2017,Abastecimento de água,Ceará,525.936,24.08
+2017,Abastecimento de água,Rio Grande do Norte,387.870,46.14
+2017,Abastecimento de água,Paraíba,466.098,48.24
+2017,Abastecimento de água,Pernambuco,1.655.483,65.99
+2017,Abastecimento de água,Alagoas,254.267,32.47
+2017,Abastecimento de água,Sergipe,138.650,24.4
+2017,Abastecimento de água,Bahia,1.202.732,33.49
+2018,Abastecimento de água,Maranhão,545.216,42.35
+2018,Abastecimento de água,Piauí,63.470,9.79
+2018,Abastecimento de água,Ceará,506.196,22.45
+2018,Abastecimento de água,Rio Grande do Norte,352.924,41.26
+2018,Abastecimento de água,Paraíba,329.608,33.88
+2018,Abastecimento de água,Pernambuco,1.694.523,66.17
+2018,Abastecimento de água,Alagoas,223.548,27.59
+2018,Abastecimento de água,Sergipe,136.622,24.05
+2018,Abastecimento de água,Bahia,1.042.985,29.35
+2019,Abastecimento de água,Maranhão,513.734,37.18
+2019,Abastecimento de água,Piauí,62.501,9.54
+2019,Abastecimento de água,Ceará,498.446,22.32
+2019,Abastecimento de água,Rio Grande do Norte,325.752,36.47
+2019,Abastecimento de água,Paraíba,380.489,38.04
+2019,Abastecimento de água,Pernambuco,1.832.706,68.46
+2019,Abastecimento de água,Alagoas,223.823,26.15
+2019,Abastecimento de água,Sergipe,191.203,31.77
+2019,Abastecimento de água,Bahia,1.109.536,30.0
+2016,Ausência de banheiro,Maranhão,31.952,2.55
+2016,Ausência de banheiro,Piauí,8.474,1.31
+2016,Ausência de banheiro,Ceará,46.386,2.15
+2016,Ausência de banheiro,Rio Grande do Norte,857.0,0.1
+2016,Ausência de banheiro,Paraíba,3.697,0.39
+2016,Ausência de banheiro,Pernambuco,7.99,0.32
+2016,Ausência de banheiro,Alagoas,5.237,0.69
+2016,Ausência de banheiro,Sergipe,1.351,0.25
+2016,Ausência de banheiro,Bahia,23.447,0.66
+2017,Ausência de banheiro,Maranhão,77.455,6.04
+2017,Ausência de banheiro,Piauí,8.974,1.35
+2017,Ausência de banheiro,Ceará,24.154,1.11
+2017,Ausência de banheiro,Rio Grande do Norte,3.593,0.43
+2017,Ausência de banheiro,Paraíba,3.259,0.34
+2017,Ausência de banheiro,Pernambuco,12.846,0.51
+2017,Ausência de banheiro,Alagoas,4.927,0.63
+2017,Ausência de banheiro,Sergipe,4.126,0.73
+2017,Ausência de banheiro,Bahia,41.845,1.17
+2018,Ausência de banheiro,Maranhão,78.971,6.13
+2018,Ausência de banheiro,Piauí,11.208,1.73
+2018,Ausência de banheiro,Ceará,24.323,1.08
+2018,Ausência de banheiro,Rio Grande do Norte,2.837,0.33
+2018,Ausência de banheiro,Paraíba,12.025,1.24
+2018,Ausência de banheiro,Pernambuco,23.606,0.92
+2018,Ausência de banheiro,Alagoas,7.108,0.88
+2018,Ausência de banheiro,Sergipe,5.877,1.03
+2018,Ausência de banheiro,Bahia,45.192,1.27
+2019,Ausência de banheiro,Maranhão,61.604,4.46
+2019,Ausência de banheiro,Piauí,9.814,1.5
+2019,Ausência de banheiro,Ceará,31.241,1.4
+2019,Ausência de banheiro,Rio Grande do Norte,5.486,0.61
+2019,Ausência de banheiro,Paraíba,10.939,1.09
+2019,Ausência de banheiro,Pernambuco,18.481,0.69
+2019,Ausência de banheiro,Alagoas,5.969,0.7
+2019,Ausência de banheiro,Sergipe,7.552,1.25
+2019,Ausência de banheiro,Bahia,37.761,1.02
+2016,Coleta de lixo,Maranhão,151.591,12.08
+2016,Coleta de lixo,Piauí,20.821,3.23
+2016,Coleta de lixo,Ceará,65.521,3.04
+2016,Coleta de lixo,Rio Grande do Norte,6.701,0.81
+2016,Coleta de lixo,Paraíba,19.402,2.04
+2016,Coleta de lixo,Pernambuco,72.88,2.92
+2016,Coleta de lixo,Alagoas,6.936,0.92
+2016,Coleta de lixo,Sergipe,6.728,1.22
+2016,Coleta de lixo,Bahia,118.998,3.33
+2017,Coleta de lixo,Maranhão,118.702,9.25
+2017,Coleta de lixo,Piauí,22.54,3.39
+2017,Coleta de lixo,Ceará,58.841,2.69
+2017,Coleta de lixo,Rio Grande do Norte,7.153,0.85
+2017,Coleta de lixo,Paraíba,12.019,1.24
+2017,Coleta de lixo,Pernambuco,63.941,2.55
+2017,Coleta de lixo,Alagoas,8.501,1.09
+2017,Coleta de lixo,Sergipe,9.155,1.61
+2017,Coleta de lixo,Bahia,75.038,2.09
+2018,Coleta de lixo,Maranhão,99.866,7.76
+2018,Coleta de lixo,Piauí,8.359,1.29
+2018,Coleta de lixo,Ceará,38.489,1.71
+2018,Coleta de lixo,Rio Grande do Norte,6.563,0.77
+2018,Coleta de lixo,Paraíba,13.344,1.37
+2018,Coleta de lixo,Pernambuco,69.034,2.7
+2018,Coleta de lixo,Alagoas,8.309,1.03
+2018,Coleta de lixo,Sergipe,13.109,2.31
+2018,Coleta de lixo,Bahia,50.502,1.42
+2019,Coleta de lixo,Maranhão,93.638,6.78
+2019,Coleta de lixo,Piauí,10.109,1.54
+2019,Coleta de lixo,Ceará,38.049,1.7
+2019,Coleta de lixo,Rio Grande do Norte,7.434,0.83
+2019,Coleta de lixo,Paraíba,12.44,1.24
+2019,Coleta de lixo,Pernambuco,87.354,3.26
+2019,Coleta de lixo,Alagoas,11.064,1.29
+2019,Coleta de lixo,Sergipe,8.973,1.49
+2019,Coleta de lixo,Bahia,48.881,1.32
+2016,Esgotamento,Maranhão,185.333,14.76
+2016,Esgotamento,Piauí,57.492,8.92
+2016,Esgotamento,Ceará,219.843,10.21
+2016,Esgotamento,Rio Grande do Norte,413.988,49.83
+2016,Esgotamento,Paraíba,81.149,8.52
+2016,Esgotamento,Pernambuco,229.553,9.2
+2016,Esgotamento,Alagoas,210.263,27.86
+2016,Esgotamento,Sergipe,73.262,13.33
+2016,Esgotamento,Bahia,442.371,12.39
+2017,Esgotamento,Maranhão,189.697,14.78
+2017,Esgotamento,Piauí,58.82,8.86
+2017,Esgotamento,Ceará,235.249,10.77
+2017,Esgotamento,Rio Grande do Norte,398.198,47.37
+2017,Esgotamento,Paraíba,88.213,9.13
+2017,Esgotamento,Pernambuco,202.857,8.09
+2017,Esgotamento,Alagoas,185.822,23.73
+2017,Esgotamento,Sergipe,84.776,14.92
+2017,Esgotamento,Bahia,471.35,13.12
+2018,Esgotamento,Maranhão,203.411,15.8
+2018,Esgotamento,Piauí,60.084,9.27
+2018,Esgotamento,Ceará,254.029,11.27
+2018,Esgotamento,Rio Grande do Norte,418.394,48.91
+2018,Esgotamento,Paraíba,93.309,9.59
+2018,Esgotamento,Pernambuco,277.445,10.83
+2018,Esgotamento,Alagoas,164.368,20.29
+2018,Esgotamento,Sergipe,91.389,16.09
+2018,Esgotamento,Bahia,436.334,12.28
+2019,Esgotamento,Maranhão,209.499,15.16
+2019,Esgotamento,Piauí,58.524,8.93
+2019,Esgotamento,Ceará,223.689,10.01
+2019,Esgotamento,Rio Grande do Norte,424.417,47.52
+2019,Esgotamento,Paraíba,91.061,9.1
+2019,Esgotamento,Pernambuco,294.443,11.0
+2019,Esgotamento,Alagoas,198.977,23.25
+2019,Esgotamento,Sergipe,119.336,19.83
+2019,Esgotamento,Bahia,454.366,12.29
+2016,Inadequação fundiária,Maranhão,34.29,2.73
+2016,Inadequação fundiária,Piauí,9.387,1.46
+2016,Inadequação fundiária,Ceará,102.92,4.78
+2016,Inadequação fundiária,Rio Grande do Norte,40.096,4.83
+2016,Inadequação fundiária,Paraíba,22.288,2.34
+2016,Inadequação fundiária,Pernambuco,140.584,5.63
+2016,Inadequação fundiária,Alagoas,19.153,2.54
+2016,Inadequação fundiária,Sergipe,20.341,3.7
+2016,Inadequação fundiária,Bahia,216.962,6.08
+2017,Inadequação fundiária,Maranhão,41.461,3.23
+2017,Inadequação fundiária,Piauí,11.686,1.76
+2017,Inadequação fundiária,Ceará,152.498,6.98
+2017,Inadequação fundiária,Rio Grande do Norte,24.411,2.9
+2017,Inadequação fundiária,Paraíba,48.58,5.03
+2017,Inadequação fundiária,Pernambuco,136.387,5.44
+2017,Inadequação fundiária,Alagoas,28.88,3.69
+2017,Inadequação fundiária,Sergipe,24.586,4.33
+2017,Inadequação fundiária,Bahia,279.28,7.78
+2018,Inadequação fundiária,Maranhão,45.818,3.56
+2018,Inadequação fundiária,Piauí,10.507,1.62
+2018,Inadequação fundiária,Ceará,112.531,4.99
+2018,Inadequação fundiária,Rio Grande do Norte,22.931,2.68
+2018,Inadequação fundiária,Paraíba,71.023,7.3
+2018,Inadequação fundiária,Pernambuco,136.075,5.31
+2018,Inadequação fundiária,Alagoas,33.719,4.16
+2018,Inadequação fundiária,Sergipe,20.296,3.57
+2018,Inadequação fundiária,Bahia,235.227,6.62
+2019,Inadequação fundiária,Maranhão,53.48,3.87
+2019,Inadequação fundiária,Piauí,16.264,2.48
+2019,Inadequação fundiária,Ceará,98.996,4.43
+2019,Inadequação fundiária,Rio Grande do Norte,25.24,2.83
+2019,Inadequação fundiária,Paraíba,66.645,6.66
+2019,Inadequação fundiária,Pernambuco,228.445,8.53
+2019,Inadequação fundiária,Alagoas,43.939,5.13
+2019,Inadequação fundiária,Sergipe,10.239,1.7
+2019,Inadequação fundiária,Bahia,259.151,7.01
+2016,piso inadequado,Maranhão,15.171,1.21
+2016,piso inadequado,Piauí,2.039,0.32
+2016,piso inadequado,Ceará,8.525,0.4
+2016,piso inadequado,Rio Grande do Norte,919.0,0.11
+2016,piso inadequado,Paraíba,449.0,0.05
+2016,piso inadequado,Pernambuco,3.815,0.15
+2016,piso inadequado,Alagoas,927.0,0.12
+2016,piso inadequado,Sergipe,588.0,0.11
+2016,piso inadequado,Bahia,7.547,0.21
+2017,piso inadequado,Maranhão,13.201,1.03
+2017,piso inadequado,Piauí,981.0,0.15
+2017,piso inadequado,Ceará,4.532,0.21
+2017,piso inadequado,Rio Grande do Norte,943.0,0.11
+2017,piso inadequado,Paraíba,397.0,0.04
+2017,piso inadequado,Pernambuco,3.21,0.13
+2017,piso inadequado,Alagoas,1.61,0.21
+2017,piso inadequado,Sergipe,0.0,0.0
+2017,piso inadequado,Bahia,5.352,0.15
+2018,piso inadequado,Maranhão,11.731,0.91
+2018,piso inadequado,Piauí,3.507,0.54
+2018,piso inadequado,Ceará,8.207,0.36
+2018,piso inadequado,Rio Grande do Norte,710.0,0.08
+2018,piso inadequado,Paraíba,290.0,0.03
+2018,piso inadequado,Pernambuco,5.104,0.2
+2018,piso inadequado,Alagoas,842.0,0.1
+2018,piso inadequado,Sergipe,415.0,0.07
+2018,piso inadequado,Bahia,9.079,0.26
+2019,piso inadequado,Maranhão,10.994,0.8
+2019,piso inadequado,Piauí,1.49,0.23
+2019,piso inadequado,Ceará,4.919,0.22
+2019,piso inadequado,Rio Grande do Norte,193.0,0.02
+2019,piso inadequado,Paraíba,2.63,0.26
+2019,piso inadequado,Pernambuco,1.769,0.07
+2019,piso inadequado,Alagoas,2.026,0.24
+2019,piso inadequado,Sergipe,0.0,0.0
+2019,piso inadequado,Bahia,5.32,0.14
+2016,Domicílios inadequados,Maranhão,941.398,74.99
+2016,Domicílios inadequados,Piauí,318.879,49.47
+2016,Domicílios inadequados,Ceará,1.181.923,54.88
+2016,Domicílios inadequados,Rio Grande do Norte,669.690,80.61
+2016,Domicílios inadequados,Paraíba,711.912,74.7
+2016,Domicílios inadequados,Pernambuco,1.807.205,72.39
+2016,Domicílios inadequados,Alagoas,492.120,65.21
+2016,Domicílios inadequados,Sergipe,274.757,49.99
+2016,Domicílios inadequados,Bahia,1.978.078,55.4
+2017,Domicílios inadequados,Maranhão,918.295,71.56
+2017,Domicílios inadequados,Piauí,361.979,54.52
+2017,Domicílios inadequados,Ceará,1.156.313,52.93
+2017,Domicílios inadequados,Rio Grande do Norte,677.949,80.65
+2017,Domicílios inadequados,Paraíba,689.307,71.34
+2017,Domicílios inadequados,Pernambuco,1.898.788,75.69
+2017,Domicílios inadequados,Alagoas,517.225,66.04
+2017,Domicílios inadequados,Sergipe,280.698,49.4
+2017,Domicílios inadequados,Bahia,2.027.378,56.44
+2018,Domicílios inadequados,Maranhão,923.205,71.71
+2018,Domicílios inadequados,Piauí,350.038,53.98
+2018,Domicílios inadequados,Ceará,1.148.381,50.93
+2018,Domicílios inadequados,Rio Grande do Norte,650.505,76.05
+2018,Domicílios inadequados,Paraíba,624.651,64.21
+2018,Domicílios inadequados,Pernambuco,1.947.945,76.07
+2018,Domicílios inadequados,Alagoas,497.848,61.44
+2018,Domicílios inadequados,Sergipe,281.769,49.6
+2018,Domicílios inadequados,Bahia,1.880.897,52.94
+2019,Domicílios inadequados,Maranhão,949.852,68.74
+2019,Domicílios inadequados,Piauí,339.085,51.75
+2019,Domicílios inadequados,Ceará,1.089.796,48.79
+2019,Domicílios inadequados,Rio Grande do Norte,629.282,70.46
+2019,Domicílios inadequados,Paraíba,662.357,66.23
+2019,Domicílios inadequados,Pernambuco,2.133.121,79.68
+2019,Domicílios inadequados,Alagoas,511.788,59.8
+2019,Domicílios inadequados,Sergipe,322.581,53.6
+2019,Domicílios inadequados,Bahia,2.044.651,55.29

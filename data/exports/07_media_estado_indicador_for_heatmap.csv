@@ -1,0 +1,64 @@
+estado,indicador,media_pct
+Pernambuco,Abastecimento de água,65.12
+Paraíba,Abastecimento de água,43.25
+Maranhão,Abastecimento de água,41.68
+Rio Grande do Norte,Abastecimento de água,41.41
+Bahia,Abastecimento de água,31.53
+Alagoas,Abastecimento de água,28.83
+Sergipe,Abastecimento de água,24.95
+Ceará,Abastecimento de água,23.91
+Piauí,Abastecimento de água,10.24
+Maranhão,Ausência de banheiro,4.8
+Piauí,Ausência de banheiro,1.47
+Ceará,Ausência de banheiro,1.44
+Bahia,Ausência de banheiro,1.03
+Sergipe,Ausência de banheiro,0.81
+Paraíba,Ausência de banheiro,0.77
+Alagoas,Ausência de banheiro,0.72
+Pernambuco,Ausência de banheiro,0.61
+Rio Grande do Norte,Ausência de banheiro,0.37
+Maranhão,Coleta de lixo,8.97
+Pernambuco,Coleta de lixo,2.86
+Piauí,Coleta de lixo,2.36
+Ceará,Coleta de lixo,2.29
+Bahia,Coleta de lixo,2.04
+Sergipe,Coleta de lixo,1.66
+Paraíba,Coleta de lixo,1.47
+Alagoas,Coleta de lixo,1.08
+Rio Grande do Norte,Coleta de lixo,0.81
+Rio Grande do Norte,Domicílios inadequados,76.94
+Pernambuco,Domicílios inadequados,75.96
+Maranhão,Domicílios inadequados,71.75
+Paraíba,Domicílios inadequados,69.12
+Alagoas,Domicílios inadequados,63.12
+Bahia,Domicílios inadequados,55.02
+Piauí,Domicílios inadequados,52.43
+Ceará,Domicílios inadequados,51.88
+Sergipe,Domicílios inadequados,50.65
+Rio Grande do Norte,Esgotamento,48.41
+Alagoas,Esgotamento,23.78
+Sergipe,Esgotamento,16.04
+Maranhão,Esgotamento,15.12
+Bahia,Esgotamento,12.52
+Ceará,Esgotamento,10.57
+Pernambuco,Esgotamento,9.78
+Paraíba,Esgotamento,9.09
+Piauí,Esgotamento,9.0
+Bahia,Inadequação fundiária,6.87
+Pernambuco,Inadequação fundiária,6.23
+Paraíba,Inadequação fundiária,5.33
+Ceará,Inadequação fundiária,5.29
+Alagoas,Inadequação fundiária,3.88
+Maranhão,Inadequação fundiária,3.35
+Sergipe,Inadequação fundiária,3.32
+Rio Grande do Norte,Inadequação fundiária,3.31
+Piauí,Inadequação fundiária,1.83
+Maranhão,piso inadequado,0.99
+Piauí,piso inadequado,0.31
+Ceará,piso inadequado,0.3
+Bahia,piso inadequado,0.19
+Alagoas,piso inadequado,0.17
+Pernambuco,piso inadequado,0.14
+Paraíba,piso inadequado,0.09
+Rio Grande do Norte,piso inadequado,0.08
+Sergipe,piso inadequado,0.04

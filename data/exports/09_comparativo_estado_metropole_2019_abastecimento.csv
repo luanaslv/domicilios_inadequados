@@ -1,0 +1,64 @@
+ano,inadequacao,estado,pct_estado,metropole,pct_metropole,diff_metropole_minus_estado
+2019,Abastecimento de água,Piauí,9.54,Região Metropolitana de Recife (PE),59.79,50.25
+2019,Abastecimento de água,Ceará,22.32,Região Metropolitana de Recife (PE),59.79,37.47
+2019,Abastecimento de água,Alagoas,26.15,Região Metropolitana de Recife (PE),59.79,33.64
+2019,Abastecimento de água,Bahia,30.0,Região Metropolitana de Recife (PE),59.79,29.79
+2019,Abastecimento de água,Sergipe,31.77,Região Metropolitana de Recife (PE),59.79,28.02
+2019,Abastecimento de água,Rio Grande do Norte,36.47,Região Metropolitana de Recife (PE),59.79,23.32
+2019,Abastecimento de água,Maranhão,37.18,Região Metropolitana de Recife (PE),59.79,22.61
+2019,Abastecimento de água,Paraíba,38.04,Região Metropolitana de Recife (PE),59.79,21.75
+2019,Abastecimento de água,Piauí,9.54,Região Metropolitana de João Pessoa (PB),16.83,7.29
+2019,Abastecimento de água,Piauí,9.54,Região Metropolitana de Salvador (BA),15.87,6.33
+2019,Abastecimento de água,Piauí,9.54,Região Metropolitana de Aracaju (SE),14.35,4.81
+2019,Abastecimento de água,Piauí,9.54,Região Metropolitana de Fortaleza (CE),13.25,3.71
+2019,Abastecimento de água,Piauí,9.54,Região Metropolitana de Maceió (AL),12.88,3.34
+2019,Abastecimento de água,Piauí,9.54,Região Metropolitana de Natal (RN),11.37,1.83
+2019,Abastecimento de água,Ceará,22.32,Região Metropolitana de João Pessoa (PB),16.83,-5.49
+2019,Abastecimento de água,Ceará,22.32,Região Metropolitana de Salvador (BA),15.87,-6.45
+2019,Abastecimento de água,Ceará,22.32,Região Metropolitana de Aracaju (SE),14.35,-7.97
+2019,Abastecimento de água,Pernambuco,68.46,Região Metropolitana de Recife (PE),59.79,-8.67
+2019,Abastecimento de água,Ceará,22.32,Região Metropolitana de Fortaleza (CE),13.25,-9.07
+2019,Abastecimento de água,Alagoas,26.15,Região Metropolitana de João Pessoa (PB),16.83,-9.32
+2019,Abastecimento de água,Ceará,22.32,Região Metropolitana de Maceió (AL),12.88,-9.44
+2019,Abastecimento de água,Alagoas,26.15,Região Metropolitana de Salvador (BA),15.87,-10.28
+2019,Abastecimento de água,Ceará,22.32,Região Metropolitana de Natal (RN),11.37,-10.95
+2019,Abastecimento de água,Alagoas,26.15,Região Metropolitana de Aracaju (SE),14.35,-11.8
+2019,Abastecimento de água,Alagoas,26.15,Região Metropolitana de Fortaleza (CE),13.25,-12.9
+2019,Abastecimento de água,Bahia,30.0,Região Metropolitana de João Pessoa (PB),16.83,-13.17
+2019,Abastecimento de água,Alagoas,26.15,Região Metropolitana de Maceió (AL),12.88,-13.27
+2019,Abastecimento de água,Bahia,30.0,Região Metropolitana de Salvador (BA),15.87,-14.13
+2019,Abastecimento de água,Alagoas,26.15,Região Metropolitana de Natal (RN),11.37,-14.78
+2019,Abastecimento de água,Sergipe,31.77,Região Metropolitana de João Pessoa (PB),16.83,-14.94
+2019,Abastecimento de água,Bahia,30.0,Região Metropolitana de Aracaju (SE),14.35,-15.65
+2019,Abastecimento de água,Sergipe,31.77,Região Metropolitana de Salvador (BA),15.87,-15.9
+2019,Abastecimento de água,Bahia,30.0,Região Metropolitana de Fortaleza (CE),13.25,-16.75
+2019,Abastecimento de água,Bahia,30.0,Região Metropolitana de Maceió (AL),12.88,-17.12
+2019,Abastecimento de água,Sergipe,31.77,Região Metropolitana de Aracaju (SE),14.35,-17.42
+2019,Abastecimento de água,Sergipe,31.77,Região Metropolitana de Fortaleza (CE),13.25,-18.52
+2019,Abastecimento de água,Bahia,30.0,Região Metropolitana de Natal (RN),11.37,-18.63
+2019,Abastecimento de água,Sergipe,31.77,Região Metropolitana de Maceió (AL),12.88,-18.89
+2019,Abastecimento de água,Rio Grande do Norte,36.47,Região Metropolitana de João Pessoa (PB),16.83,-19.64
+2019,Abastecimento de água,Maranhão,37.18,Região Metropolitana de João Pessoa (PB),16.83,-20.35
+2019,Abastecimento de água,Sergipe,31.77,Região Metropolitana de Natal (RN),11.37,-20.4
+2019,Abastecimento de água,Rio Grande do Norte,36.47,Região Metropolitana de Salvador (BA),15.87,-20.6
+2019,Abastecimento de água,Paraíba,38.04,Região Metropolitana de João Pessoa (PB),16.83,-21.21
+2019,Abastecimento de água,Maranhão,37.18,Região Metropolitana de Salvador (BA),15.87,-21.31
+2019,Abastecimento de água,Rio Grande do Norte,36.47,Região Metropolitana de Aracaju (SE),14.35,-22.12
+2019,Abastecimento de água,Paraíba,38.04,Região Metropolitana de Salvador (BA),15.87,-22.17
+2019,Abastecimento de água,Maranhão,37.18,Região Metropolitana de Aracaju (SE),14.35,-22.83
+2019,Abastecimento de água,Rio Grande do Norte,36.47,Região Metropolitana de Fortaleza (CE),13.25,-23.22
+2019,Abastecimento de água,Rio Grande do Norte,36.47,Região Metropolitana de Maceió (AL),12.88,-23.59
+2019,Abastecimento de água,Paraíba,38.04,Região Metropolitana de Aracaju (SE),14.35,-23.69
+2019,Abastecimento de água,Maranhão,37.18,Região Metropolitana de Fortaleza (CE),13.25,-23.93
+2019,Abastecimento de água,Maranhão,37.18,Região Metropolitana de Maceió (AL),12.88,-24.3
+2019,Abastecimento de água,Paraíba,38.04,Região Metropolitana de Fortaleza (CE),13.25,-24.79
+2019,Abastecimento de água,Rio Grande do Norte,36.47,Região Metropolitana de Natal (RN),11.37,-25.1
+2019,Abastecimento de água,Paraíba,38.04,Região Metropolitana de Maceió (AL),12.88,-25.16
+2019,Abastecimento de água,Maranhão,37.18,Região Metropolitana de Natal (RN),11.37,-25.81
+2019,Abastecimento de água,Paraíba,38.04,Região Metropolitana de Natal (RN),11.37,-26.67
+2019,Abastecimento de água,Pernambuco,68.46,Região Metropolitana de João Pessoa (PB),16.83,-51.63
+2019,Abastecimento de água,Pernambuco,68.46,Região Metropolitana de Salvador (BA),15.87,-52.59
+2019,Abastecimento de água,Pernambuco,68.46,Região Metropolitana de Aracaju (SE),14.35,-54.11
+2019,Abastecimento de água,Pernambuco,68.46,Região Metropolitana de Fortaleza (CE),13.25,-55.21
+2019,Abastecimento de água,Pernambuco,68.46,Região Metropolitana de Maceió (AL),12.88,-55.58
+2019,Abastecimento de água,Pernambuco,68.46,Região Metropolitana de Natal (RN),11.37,-57.09

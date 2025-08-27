@@ -1,0 +1,16 @@
+# Manipulação e análise de dados
+pandas
+numpy
+
+# Requisições HTTP (caso de coleta de dados)
+requests
+
+# Banco de dados MySQL
+mysql-connector-python
+SQLAlchemy
+
+# Visualização opcional em Python (se quiser gerar gráficos locais)
+matplotlib
+
+# Utilidades
+python-dotenv   # para armazenar credenciais em .env (opcional)

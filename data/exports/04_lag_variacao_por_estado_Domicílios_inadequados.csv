@@ -1,0 +1,37 @@
+estado,inadequacao,ano,valor_percentual,valor_ano_anterior,diff_pct_points
+Alagoas,Domicílios inadequados,2016,65.21,,
+Alagoas,Domicílios inadequados,2017,66.04,65.21,0.8300018310546875
+Alagoas,Domicílios inadequados,2018,61.44,66.04,-4.600002288818359
+Alagoas,Domicílios inadequados,2019,59.8,61.44,-1.6399993896484375
+Bahia,Domicílios inadequados,2016,55.4,,
+Bahia,Domicílios inadequados,2017,56.44,55.4,1.0399971008300781
+Bahia,Domicílios inadequados,2018,52.94,56.44,-3.5
+Bahia,Domicílios inadequados,2019,55.29,52.94,2.3500022888183594
+Ceará,Domicílios inadequados,2016,54.88,,
+Ceará,Domicílios inadequados,2017,52.93,54.88,-1.9500007629394531
+Ceará,Domicílios inadequados,2018,50.93,52.93,-2.0
+Ceará,Domicílios inadequados,2019,48.79,50.93,-2.1399993896484375
+Maranhão,Domicílios inadequados,2016,74.99,,
+Maranhão,Domicílios inadequados,2017,71.56,74.99,-3.4300003051757812
+Maranhão,Domicílios inadequados,2018,71.71,71.56,0.15000152587890625
+Maranhão,Domicílios inadequados,2019,68.74,71.71,-2.970001220703125
+Paraíba,Domicílios inadequados,2016,74.7,,
+Paraíba,Domicílios inadequados,2017,71.34,74.7,-3.3600006103515625
+Paraíba,Domicílios inadequados,2018,64.21,71.34,-7.129997253417969
+Paraíba,Domicílios inadequados,2019,66.23,64.21,2.0200042724609375
+Pernambuco,Domicílios inadequados,2016,72.39,,
+Pernambuco,Domicílios inadequados,2017,75.69,72.39,3.3000030517578125
+Pernambuco,Domicílios inadequados,2018,76.07,75.69,0.37999725341796875
+Pernambuco,Domicílios inadequados,2019,79.68,76.07,3.6100006103515625
+Piauí,Domicílios inadequados,2016,49.47,,
+Piauí,Domicílios inadequados,2017,54.52,49.47,5.049999237060547
+Piauí,Domicílios inadequados,2018,53.98,54.52,-0.5400009155273438
+Piauí,Domicílios inadequados,2019,51.75,53.98,-2.229999542236328
+Rio Grande do Norte,Domicílios inadequados,2016,80.61,,
+Rio Grande do Norte,Domicílios inadequados,2017,80.65,80.61,0.04000091552734375
+Rio Grande do Norte,Domicílios inadequados,2018,76.05,80.65,-4.599998474121094
+Rio Grande do Norte,Domicílios inadequados,2019,70.46,76.05,-5.590003967285156
+Sergipe,Domicílios inadequados,2016,49.99,,
+Sergipe,Domicílios inadequados,2017,49.4,49.99,-0.5900001525878906
+Sergipe,Domicílios inadequados,2018,49.6,49.4,0.1999969482421875
+Sergipe,Domicílios inadequados,2019,53.6,49.6,4.0

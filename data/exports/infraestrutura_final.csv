@@ -1,0 +1,477 @@
+ano,inadequacao,regiao,contagem,valor_percentual,source_file
+2016,Abastecimento de água,Maranhão,575009,45.8,estados_final.csv
+2016,Abastecimento de água,Piauí,63866,9.91,estados_final.csv
+2016,Abastecimento de água,Ceará,577354,26.81,estados_final.csv
+2016,Abastecimento de água,Rio Grande do Norte,346964,41.76,estados_final.csv
+2016,Abastecimento de água,Paraíba,503471,52.83,estados_final.csv
+2016,Abastecimento de água,Pernambuco,1494087,59.85,estados_final.csv
+2016,Abastecimento de água,Alagoas,219603,29.1,estados_final.csv
+2016,Abastecimento de água,Sergipe,107643,19.59,estados_final.csv
+2016,Abastecimento de água,Bahia,1188644,33.29,estados_final.csv
+2017,Abastecimento de água,Maranhão,531055,41.38,estados_final.csv
+2017,Abastecimento de água,Piauí,77891,11.73,estados_final.csv
+2017,Abastecimento de água,Ceará,525936,24.08,estados_final.csv
+2017,Abastecimento de água,Rio Grande do Norte,387870,46.14,estados_final.csv
+2017,Abastecimento de água,Paraíba,466098,48.24,estados_final.csv
+2017,Abastecimento de água,Pernambuco,1655483,65.99,estados_final.csv
+2017,Abastecimento de água,Alagoas,254267,32.47,estados_final.csv
+2017,Abastecimento de água,Sergipe,138650,24.4,estados_final.csv
+2017,Abastecimento de água,Bahia,1202732,33.49,estados_final.csv
+2018,Abastecimento de água,Maranhão,545216,42.35,estados_final.csv
+2018,Abastecimento de água,Piauí,63470,9.79,estados_final.csv
+2018,Abastecimento de água,Ceará,506196,22.45,estados_final.csv
+2018,Abastecimento de água,Rio Grande do Norte,352924,41.26,estados_final.csv
+2018,Abastecimento de água,Paraíba,329608,33.88,estados_final.csv
+2018,Abastecimento de água,Pernambuco,1694523,66.17,estados_final.csv
+2018,Abastecimento de água,Alagoas,223548,27.59,estados_final.csv
+2018,Abastecimento de água,Sergipe,136622,24.05,estados_final.csv
+2018,Abastecimento de água,Bahia,1042985,29.35,estados_final.csv
+2019,Abastecimento de água,Maranhão,513734,37.18,estados_final.csv
+2019,Abastecimento de água,Piauí,62501,9.54,estados_final.csv
+2019,Abastecimento de água,Ceará,498446,22.32,estados_final.csv
+2019,Abastecimento de água,Rio Grande do Norte,325752,36.47,estados_final.csv
+2019,Abastecimento de água,Paraíba,380489,38.04,estados_final.csv
+2019,Abastecimento de água,Pernambuco,1832706,68.46,estados_final.csv
+2019,Abastecimento de água,Alagoas,223823,26.15,estados_final.csv
+2019,Abastecimento de água,Sergipe,191203,31.77,estados_final.csv
+2019,Abastecimento de água,Bahia,1109536,30.0,estados_final.csv
+2016,Ausência de banheiro,Maranhão,31952,2.55,estados_final.csv
+2016,Ausência de banheiro,Piauí,8474,1.31,estados_final.csv
+2016,Ausência de banheiro,Ceará,46386,2.15,estados_final.csv
+2016,Ausência de banheiro,Rio Grande do Norte,8570,0.1,estados_final.csv
+2016,Ausência de banheiro,Paraíba,3697,0.39,estados_final.csv
+2016,Ausência de banheiro,Pernambuco,799,0.32,estados_final.csv
+2016,Ausência de banheiro,Alagoas,5237,0.69,estados_final.csv
+2016,Ausência de banheiro,Sergipe,1351,0.25,estados_final.csv
+2016,Ausência de banheiro,Bahia,23447,0.66,estados_final.csv
+2017,Ausência de banheiro,Maranhão,77455,6.04,estados_final.csv
+2017,Ausência de banheiro,Piauí,8974,1.35,estados_final.csv
+2017,Ausência de banheiro,Ceará,24154,1.11,estados_final.csv
+2017,Ausência de banheiro,Rio Grande do Norte,3593,0.43,estados_final.csv
+2017,Ausência de banheiro,Paraíba,3259,0.34,estados_final.csv
+2017,Ausência de banheiro,Pernambuco,12846,0.51,estados_final.csv
+2017,Ausência de banheiro,Alagoas,4927,0.63,estados_final.csv
+2017,Ausência de banheiro,Sergipe,4126,0.73,estados_final.csv
+2017,Ausência de banheiro,Bahia,41845,1.17,estados_final.csv
+2018,Ausência de banheiro,Maranhão,78971,6.13,estados_final.csv
+2018,Ausência de banheiro,Piauí,11208,1.73,estados_final.csv
+2018,Ausência de banheiro,Ceará,24323,1.08,estados_final.csv
+2018,Ausência de banheiro,Rio Grande do Norte,2837,0.33,estados_final.csv
+2018,Ausência de banheiro,Paraíba,12025,1.24,estados_final.csv
+2018,Ausência de banheiro,Pernambuco,23606,0.92,estados_final.csv
+2018,Ausência de banheiro,Alagoas,7108,0.88,estados_final.csv
+2018,Ausência de banheiro,Sergipe,5877,1.03,estados_final.csv
+2018,Ausência de banheiro,Bahia,45192,1.27,estados_final.csv
+2019,Ausência de banheiro,Maranhão,61604,4.46,estados_final.csv
+2019,Ausência de banheiro,Piauí,9814,1.5,estados_final.csv
+2019,Ausência de banheiro,Ceará,31241,1.4,estados_final.csv
+2019,Ausência de banheiro,Rio Grande do Norte,5486,0.61,estados_final.csv
+2019,Ausência de banheiro,Paraíba,10939,1.09,estados_final.csv
+2019,Ausência de banheiro,Pernambuco,18481,0.69,estados_final.csv
+2019,Ausência de banheiro,Alagoas,5969,0.7,estados_final.csv
+2019,Ausência de banheiro,Sergipe,7552,1.25,estados_final.csv
+2019,Ausência de banheiro,Bahia,37761,1.02,estados_final.csv
+2016,Coleta de lixo,Maranhão,151591,12.08,estados_final.csv
+2016,Coleta de lixo,Piauí,20821,3.23,estados_final.csv
+2016,Coleta de lixo,Ceará,65521,3.04,estados_final.csv
+2016,Coleta de lixo,Rio Grande do Norte,6701,0.81,estados_final.csv
+2016,Coleta de lixo,Paraíba,19402,2.04,estados_final.csv
+2016,Coleta de lixo,Pernambuco,7288,2.92,estados_final.csv
+2016,Coleta de lixo,Alagoas,6936,0.92,estados_final.csv
+2016,Coleta de lixo,Sergipe,6728,1.22,estados_final.csv
+2016,Coleta de lixo,Bahia,118998,3.33,estados_final.csv
+2017,Coleta de lixo,Maranhão,118702,9.25,estados_final.csv
+2017,Coleta de lixo,Piauí,2254,3.39,estados_final.csv
+2017,Coleta de lixo,Ceará,58841,2.69,estados_final.csv
+2017,Coleta de lixo,Rio Grande do Norte,7153,0.85,estados_final.csv
+2017,Coleta de lixo,Paraíba,12019,1.24,estados_final.csv
+2017,Coleta de lixo,Pernambuco,63941,2.55,estados_final.csv
+2017,Coleta de lixo,Alagoas,8501,1.09,estados_final.csv
+2017,Coleta de lixo,Sergipe,9155,1.61,estados_final.csv
+2017,Coleta de lixo,Bahia,75038,2.09,estados_final.csv
+2018,Coleta de lixo,Maranhão,99866,7.76,estados_final.csv
+2018,Coleta de lixo,Piauí,8359,1.29,estados_final.csv
+2018,Coleta de lixo,Ceará,38489,1.71,estados_final.csv
+2018,Coleta de lixo,Rio Grande do Norte,6563,0.77,estados_final.csv
+2018,Coleta de lixo,Paraíba,13344,1.37,estados_final.csv
+2018,Coleta de lixo,Pernambuco,69034,2.7,estados_final.csv
+2018,Coleta de lixo,Alagoas,8309,1.03,estados_final.csv
+2018,Coleta de lixo,Sergipe,13109,2.31,estados_final.csv
+2018,Coleta de lixo,Bahia,50502,1.42,estados_final.csv
+2019,Coleta de lixo,Maranhão,93638,6.78,estados_final.csv
+2019,Coleta de lixo,Piauí,10109,1.54,estados_final.csv
+2019,Coleta de lixo,Ceará,38049,1.7,estados_final.csv
+2019,Coleta de lixo,Rio Grande do Norte,7434,0.83,estados_final.csv
+2019,Coleta de lixo,Paraíba,1244,1.24,estados_final.csv
+2019,Coleta de lixo,Pernambuco,87354,3.26,estados_final.csv
+2019,Coleta de lixo,Alagoas,11064,1.29,estados_final.csv
+2019,Coleta de lixo,Sergipe,8973,1.49,estados_final.csv
+2019,Coleta de lixo,Bahia,48881,1.32,estados_final.csv
+2016,Esgotamento,Maranhão,185333,14.76,estados_final.csv
+2016,Esgotamento,Piauí,57492,8.92,estados_final.csv
+2016,Esgotamento,Ceará,219843,10.21,estados_final.csv
+2016,Esgotamento,Rio Grande do Norte,413988,49.83,estados_final.csv
+2016,Esgotamento,Paraíba,81149,8.52,estados_final.csv
+2016,Esgotamento,Pernambuco,229553,9.2,estados_final.csv
+2016,Esgotamento,Alagoas,210263,27.86,estados_final.csv
+2016,Esgotamento,Sergipe,73262,13.33,estados_final.csv
+2016,Esgotamento,Bahia,442371,12.39,estados_final.csv
+2017,Esgotamento,Maranhão,189697,14.78,estados_final.csv
+2017,Esgotamento,Piauí,5882,8.86,estados_final.csv
+2017,Esgotamento,Ceará,235249,10.77,estados_final.csv
+2017,Esgotamento,Rio Grande do Norte,398198,47.37,estados_final.csv
+2017,Esgotamento,Paraíba,88213,9.13,estados_final.csv
+2017,Esgotamento,Pernambuco,202857,8.09,estados_final.csv
+2017,Esgotamento,Alagoas,185822,23.73,estados_final.csv
+2017,Esgotamento,Sergipe,84776,14.92,estados_final.csv
+2017,Esgotamento,Bahia,47135,13.12,estados_final.csv
+2018,Esgotamento,Maranhão,203411,15.8,estados_final.csv
+2018,Esgotamento,Piauí,60084,9.27,estados_final.csv
+2018,Esgotamento,Ceará,254029,11.27,estados_final.csv
+2018,Esgotamento,Rio Grande do Norte,418394,48.91,estados_final.csv
+2018,Esgotamento,Paraíba,93309,9.59,estados_final.csv
+2018,Esgotamento,Pernambuco,277445,10.83,estados_final.csv
+2018,Esgotamento,Alagoas,164368,20.29,estados_final.csv
+2018,Esgotamento,Sergipe,91389,16.09,estados_final.csv
+2018,Esgotamento,Bahia,436334,12.28,estados_final.csv
+2019,Esgotamento,Maranhão,209499,15.16,estados_final.csv
+2019,Esgotamento,Piauí,58524,8.93,estados_final.csv
+2019,Esgotamento,Ceará,223689,10.01,estados_final.csv
+2019,Esgotamento,Rio Grande do Norte,424417,47.52,estados_final.csv
+2019,Esgotamento,Paraíba,91061,9.1,estados_final.csv
+2019,Esgotamento,Pernambuco,294443,11.0,estados_final.csv
+2019,Esgotamento,Alagoas,198977,23.25,estados_final.csv
+2019,Esgotamento,Sergipe,119336,19.83,estados_final.csv
+2019,Esgotamento,Bahia,454366,12.29,estados_final.csv
+2016,Inadequação fundiária,Maranhão,3429,2.73,estados_final.csv
+2016,Inadequação fundiária,Piauí,9387,1.46,estados_final.csv
+2016,Inadequação fundiária,Ceará,10292,4.78,estados_final.csv
+2016,Inadequação fundiária,Rio Grande do Norte,40096,4.83,estados_final.csv
+2016,Inadequação fundiária,Paraíba,22288,2.34,estados_final.csv
+2016,Inadequação fundiária,Pernambuco,140584,5.63,estados_final.csv
+2016,Inadequação fundiária,Alagoas,19153,2.54,estados_final.csv
+2016,Inadequação fundiária,Sergipe,20341,3.7,estados_final.csv
+2016,Inadequação fundiária,Bahia,216962,6.08,estados_final.csv
+2017,Inadequação fundiária,Maranhão,41461,3.23,estados_final.csv
+2017,Inadequação fundiária,Piauí,11686,1.76,estados_final.csv
+2017,Inadequação fundiária,Ceará,152498,6.98,estados_final.csv
+2017,Inadequação fundiária,Rio Grande do Norte,24411,2.9,estados_final.csv
+2017,Inadequação fundiária,Paraíba,4858,5.03,estados_final.csv
+2017,Inadequação fundiária,Pernambuco,136387,5.44,estados_final.csv
+2017,Inadequação fundiária,Alagoas,2888,3.69,estados_final.csv
+2017,Inadequação fundiária,Sergipe,24586,4.33,estados_final.csv
+2017,Inadequação fundiária,Bahia,27928,7.78,estados_final.csv
+2018,Inadequação fundiária,Maranhão,45818,3.56,estados_final.csv
+2018,Inadequação fundiária,Piauí,10507,1.62,estados_final.csv
+2018,Inadequação fundiária,Ceará,112531,4.99,estados_final.csv
+2018,Inadequação fundiária,Rio Grande do Norte,22931,2.68,estados_final.csv
+2018,Inadequação fundiária,Paraíba,71023,7.3,estados_final.csv
+2018,Inadequação fundiária,Pernambuco,136075,5.31,estados_final.csv
+2018,Inadequação fundiária,Alagoas,33719,4.16,estados_final.csv
+2018,Inadequação fundiária,Sergipe,20296,3.57,estados_final.csv
+2018,Inadequação fundiária,Bahia,235227,6.62,estados_final.csv
+2019,Inadequação fundiária,Maranhão,5348,3.87,estados_final.csv
+2019,Inadequação fundiária,Piauí,16264,2.48,estados_final.csv
+2019,Inadequação fundiária,Ceará,98996,4.43,estados_final.csv
+2019,Inadequação fundiária,Rio Grande do Norte,2524,2.83,estados_final.csv
+2019,Inadequação fundiária,Paraíba,66645,6.66,estados_final.csv
+2019,Inadequação fundiária,Pernambuco,228445,8.53,estados_final.csv
+2019,Inadequação fundiária,Alagoas,43939,5.13,estados_final.csv
+2019,Inadequação fundiária,Sergipe,10239,1.7,estados_final.csv
+2019,Inadequação fundiária,Bahia,259151,7.01,estados_final.csv
+2016,piso inadequado,Maranhão,15171,1.21,estados_final.csv
+2016,piso inadequado,Piauí,2039,0.32,estados_final.csv
+2016,piso inadequado,Ceará,8525,0.4,estados_final.csv
+2016,piso inadequado,Rio Grande do Norte,9190,0.11,estados_final.csv
+2016,piso inadequado,Paraíba,4490,0.05,estados_final.csv
+2016,piso inadequado,Pernambuco,3815,0.15,estados_final.csv
+2016,piso inadequado,Alagoas,9270,0.12,estados_final.csv
+2016,piso inadequado,Sergipe,5880,0.11,estados_final.csv
+2016,piso inadequado,Bahia,7547,0.21,estados_final.csv
+2017,piso inadequado,Maranhão,13201,1.03,estados_final.csv
+2017,piso inadequado,Piauí,9810,0.15,estados_final.csv
+2017,piso inadequado,Ceará,4532,0.21,estados_final.csv
+2017,piso inadequado,Rio Grande do Norte,9430,0.11,estados_final.csv
+2017,piso inadequado,Paraíba,3970,0.04,estados_final.csv
+2017,piso inadequado,Pernambuco,321,0.13,estados_final.csv
+2017,piso inadequado,Alagoas,161,0.21,estados_final.csv
+2017,piso inadequado,Sergipe,0,0.0,estados_final.csv
+2017,piso inadequado,Bahia,5352,0.15,estados_final.csv
+2018,piso inadequado,Maranhão,11731,0.91,estados_final.csv
+2018,piso inadequado,Piauí,3507,0.54,estados_final.csv
+2018,piso inadequado,Ceará,8207,0.36,estados_final.csv
+2018,piso inadequado,Rio Grande do Norte,7100,0.08,estados_final.csv
+2018,piso inadequado,Paraíba,2900,0.03,estados_final.csv
+2018,piso inadequado,Pernambuco,5104,0.2,estados_final.csv
+2018,piso inadequado,Alagoas,8420,0.1,estados_final.csv
+2018,piso inadequado,Sergipe,4150,0.07,estados_final.csv
+2018,piso inadequado,Bahia,9079,0.26,estados_final.csv
+2019,piso inadequado,Maranhão,10994,0.8,estados_final.csv
+2019,piso inadequado,Piauí,149,0.23,estados_final.csv
+2019,piso inadequado,Ceará,4919,0.22,estados_final.csv
+2019,piso inadequado,Rio Grande do Norte,1930,0.02,estados_final.csv
+2019,piso inadequado,Paraíba,263,0.26,estados_final.csv
+2019,piso inadequado,Pernambuco,1769,0.07,estados_final.csv
+2019,piso inadequado,Alagoas,2026,0.24,estados_final.csv
+2019,piso inadequado,Sergipe,0,0.0,estados_final.csv
+2019,piso inadequado,Bahia,532,0.14,estados_final.csv
+2016,Domicílios inadequados,Maranhão,941398,74.99,estados_final.csv
+2016,Domicílios inadequados,Piauí,318879,49.47,estados_final.csv
+2016,Domicílios inadequados,Ceará,1181923,54.88,estados_final.csv
+2016,Domicílios inadequados,Rio Grande do Norte,669690,80.61,estados_final.csv
+2016,Domicílios inadequados,Paraíba,711912,74.7,estados_final.csv
+2016,Domicílios inadequados,Pernambuco,1807205,72.39,estados_final.csv
+2016,Domicílios inadequados,Alagoas,492120,65.21,estados_final.csv
+2016,Domicílios inadequados,Sergipe,274757,49.99,estados_final.csv
+2016,Domicílios inadequados,Bahia,1978078,55.4,estados_final.csv
+2017,Domicílios inadequados,Maranhão,918295,71.56,estados_final.csv
+2017,Domicílios inadequados,Piauí,361979,54.52,estados_final.csv
+2017,Domicílios inadequados,Ceará,1156313,52.93,estados_final.csv
+2017,Domicílios inadequados,Rio Grande do Norte,677949,80.65,estados_final.csv
+2017,Domicílios inadequados,Paraíba,689307,71.34,estados_final.csv
+2017,Domicílios inadequados,Pernambuco,1898788,75.69,estados_final.csv
+2017,Domicílios inadequados,Alagoas,517225,66.04,estados_final.csv
+2017,Domicílios inadequados,Sergipe,280698,49.4,estados_final.csv
+2017,Domicílios inadequados,Bahia,2027378,56.44,estados_final.csv
+2018,Domicílios inadequados,Maranhão,923205,71.71,estados_final.csv
+2018,Domicílios inadequados,Piauí,350038,53.98,estados_final.csv
+2018,Domicílios inadequados,Ceará,1148381,50.93,estados_final.csv
+2018,Domicílios inadequados,Rio Grande do Norte,650505,76.05,estados_final.csv
+2018,Domicílios inadequados,Paraíba,624651,64.21,estados_final.csv
+2018,Domicílios inadequados,Pernambuco,1947945,76.07,estados_final.csv
+2018,Domicílios inadequados,Alagoas,497848,61.44,estados_final.csv
+2018,Domicílios inadequados,Sergipe,281769,49.6,estados_final.csv
+2018,Domicílios inadequados,Bahia,1880897,52.94,estados_final.csv
+2019,Domicílios inadequados,Maranhão,949852,68.74,estados_final.csv
+2019,Domicílios inadequados,Piauí,339085,51.75,estados_final.csv
+2019,Domicílios inadequados,Ceará,1089796,48.79,estados_final.csv
+2019,Domicílios inadequados,Rio Grande do Norte,629282,70.46,estados_final.csv
+2019,Domicílios inadequados,Paraíba,662357,66.23,estados_final.csv
+2019,Domicílios inadequados,Pernambuco,2133121,79.68,estados_final.csv
+2019,Domicílios inadequados,Alagoas,511788,59.8,estados_final.csv
+2019,Domicílios inadequados,Sergipe,322581,53.6,estados_final.csv
+2019,Domicílios inadequados,Bahia,2044651,55.29,estados_final.csv
+2016,Abastecimento de água,Região Metropolitana de Fortaleza (CE),175679,14.94,metropolis_final.csv
+2016,Abastecimento de água,Região Metropolitana de Natal (RN),5171,12.53,metropolis_final.csv
+2016,Abastecimento de água,Região Metropolitana de João Pessoa (PB),59523,16.02,metropolis_final.csv
+2016,Abastecimento de água,Região Metropolitana de Recife (PE),586732,46.34,metropolis_final.csv
+2016,Abastecimento de água,Região Metropolitana de Maceió (AL),86256,21.88,metropolis_final.csv
+2016,Abastecimento de água,Região Metropolitana de Aracaju (SE),13958,4.6,metropolis_final.csv
+2016,Abastecimento de água,Região Metropolitana de Salvador (BA),29059,22.34,metropolis_final.csv
+2017,Abastecimento de água,Região Metropolitana de Fortaleza (CE),141563,11.79,metropolis_final.csv
+2017,Abastecimento de água,Região Metropolitana de Natal (RN),83286,19.49,metropolis_final.csv
+2017,Abastecimento de água,Região Metropolitana de João Pessoa (PB),42763,11.37,metropolis_final.csv
+2017,Abastecimento de água,Região Metropolitana de Recife (PE),638304,49.2,metropolis_final.csv
+2017,Abastecimento de água,Região Metropolitana de Maceió (AL),71325,16.95,metropolis_final.csv
+2017,Abastecimento de água,Região Metropolitana de Aracaju (SE),11854,3.87,metropolis_final.csv
+2017,Abastecimento de água,Região Metropolitana de Salvador (BA),332469,24.57,metropolis_final.csv
+2018,Abastecimento de água,Região Metropolitana de Fortaleza (CE),163764,12.92,metropolis_final.csv
+2018,Abastecimento de água,Região Metropolitana de Natal (RN),39943,9.25,metropolis_final.csv
+2018,Abastecimento de água,Região Metropolitana de João Pessoa (PB),50229,13.41,metropolis_final.csv
+2018,Abastecimento de água,Região Metropolitana de Recife (PE),715382,54.15,metropolis_final.csv
+2018,Abastecimento de água,Região Metropolitana de Maceió (AL),6791,15.23,metropolis_final.csv
+2018,Abastecimento de água,Região Metropolitana de Aracaju (SE),24689,8.06,metropolis_final.csv
+2018,Abastecimento de água,Região Metropolitana de Salvador (BA),24691,18.21,metropolis_final.csv
+2019,Abastecimento de água,Região Metropolitana de Fortaleza (CE),164578,13.25,metropolis_final.csv
+2019,Abastecimento de água,Região Metropolitana de Natal (RN),52331,11.37,metropolis_final.csv
+2019,Abastecimento de água,Região Metropolitana de João Pessoa (PB),6708,16.83,metropolis_final.csv
+2019,Abastecimento de água,Região Metropolitana de Recife (PE),806249,59.79,metropolis_final.csv
+2019,Abastecimento de água,Região Metropolitana de Maceió (AL),6027,12.88,metropolis_final.csv
+2019,Abastecimento de água,Região Metropolitana de Aracaju (SE),45957,14.35,metropolis_final.csv
+2019,Abastecimento de água,Região Metropolitana de Salvador (BA),225406,15.87,metropolis_final.csv
+2016,Ausência de banheiro,Região Metropolitana de Fortaleza (CE),34309,2.92,metropolis_final.csv
+2016,Ausência de banheiro,Região Metropolitana de Natal (RN),0,0.0,metropolis_final.csv
+2016,Ausência de banheiro,Região Metropolitana de João Pessoa (PB),1006,0.27,metropolis_final.csv
+2016,Ausência de banheiro,Região Metropolitana de Recife (PE),2661,0.21,metropolis_final.csv
+2016,Ausência de banheiro,Região Metropolitana de Maceió (AL),9380,0.24,metropolis_final.csv
+2016,Ausência de banheiro,Região Metropolitana de Aracaju (SE),9360,0.31,metropolis_final.csv
+2016,Ausência de banheiro,Região Metropolitana de Salvador (BA),5716,0.44,metropolis_final.csv
+2017,Ausência de banheiro,Região Metropolitana de Fortaleza (CE),7371,0.61,metropolis_final.csv
+2017,Ausência de banheiro,Região Metropolitana de Natal (RN),7000,0.16,metropolis_final.csv
+2017,Ausência de banheiro,Região Metropolitana de João Pessoa (PB),9230,0.25,metropolis_final.csv
+2017,Ausência de banheiro,Região Metropolitana de Recife (PE),1568,0.12,metropolis_final.csv
+2017,Ausência de banheiro,Região Metropolitana de Maceió (AL),6640,0.16,metropolis_final.csv
+2017,Ausência de banheiro,Região Metropolitana de Aracaju (SE),0,0.0,metropolis_final.csv
+2017,Ausência de banheiro,Região Metropolitana de Salvador (BA),942,0.7,metropolis_final.csv
+2018,Ausência de banheiro,Região Metropolitana de Fortaleza (CE),8557,0.67,metropolis_final.csv
+2018,Ausência de banheiro,Região Metropolitana de Natal (RN),3490,0.08,metropolis_final.csv
+2018,Ausência de banheiro,Região Metropolitana de João Pessoa (PB),2148,0.57,metropolis_final.csv
+2018,Ausência de banheiro,Região Metropolitana de Recife (PE),5833,0.44,metropolis_final.csv
+2018,Ausência de banheiro,Região Metropolitana de Maceió (AL),8230,0.18,metropolis_final.csv
+2018,Ausência de banheiro,Região Metropolitana de Aracaju (SE),6920,0.23,metropolis_final.csv
+2018,Ausência de banheiro,Região Metropolitana de Salvador (BA),6415,0.47,metropolis_final.csv
+2019,Ausência de banheiro,Região Metropolitana de Fortaleza (CE),3933,0.32,metropolis_final.csv
+2019,Ausência de banheiro,Região Metropolitana de Natal (RN),0,0.0,metropolis_final.csv
+2019,Ausência de banheiro,Região Metropolitana de João Pessoa (PB),4092,1.03,metropolis_final.csv
+2019,Ausência de banheiro,Região Metropolitana de Recife (PE),6888,0.51,metropolis_final.csv
+2019,Ausência de banheiro,Região Metropolitana de Maceió (AL),199,0.43,metropolis_final.csv
+2019,Ausência de banheiro,Região Metropolitana de Aracaju (SE),9260,0.29,metropolis_final.csv
+2019,Ausência de banheiro,Região Metropolitana de Salvador (BA),4528,0.32,metropolis_final.csv
+2016,Coleta de lixo,Região Metropolitana de Fortaleza (CE),21445,1.82,metropolis_final.csv
+2016,Coleta de lixo,Região Metropolitana de Natal (RN),3238,0.78,metropolis_final.csv
+2016,Coleta de lixo,Região Metropolitana de João Pessoa (PB),10458,2.81,metropolis_final.csv
+2016,Coleta de lixo,Região Metropolitana de Recife (PE),29591,2.34,metropolis_final.csv
+2016,Coleta de lixo,Região Metropolitana de Maceió (AL),2583,0.66,metropolis_final.csv
+2016,Coleta de lixo,Região Metropolitana de Aracaju (SE),3585,1.18,metropolis_final.csv
+2016,Coleta de lixo,Região Metropolitana de Salvador (BA),47223,3.63,metropolis_final.csv
+2017,Coleta de lixo,Região Metropolitana de Fortaleza (CE),3021,2.52,metropolis_final.csv
+2017,Coleta de lixo,Região Metropolitana de Natal (RN),3484,0.82,metropolis_final.csv
+2017,Coleta de lixo,Região Metropolitana de João Pessoa (PB),448,1.19,metropolis_final.csv
+2017,Coleta de lixo,Região Metropolitana de Recife (PE),31398,2.42,metropolis_final.csv
+2017,Coleta de lixo,Região Metropolitana de Maceió (AL),2851,0.68,metropolis_final.csv
+2017,Coleta de lixo,Região Metropolitana de Aracaju (SE),7012,2.29,metropolis_final.csv
+2017,Coleta de lixo,Região Metropolitana de Salvador (BA),22783,1.68,metropolis_final.csv
+2018,Coleta de lixo,Região Metropolitana de Fortaleza (CE),9061,0.71,metropolis_final.csv
+2018,Coleta de lixo,Região Metropolitana de Natal (RN),4603,1.07,metropolis_final.csv
+2018,Coleta de lixo,Região Metropolitana de João Pessoa (PB),3846,1.03,metropolis_final.csv
+2018,Coleta de lixo,Região Metropolitana de Recife (PE),417,3.16,metropolis_final.csv
+2018,Coleta de lixo,Região Metropolitana de Maceió (AL),4742,1.06,metropolis_final.csv
+2018,Coleta de lixo,Região Metropolitana de Aracaju (SE),10099,3.3,metropolis_final.csv
+2018,Coleta de lixo,Região Metropolitana de Salvador (BA),11728,0.86,metropolis_final.csv
+2019,Coleta de lixo,Região Metropolitana de Fortaleza (CE),5802,0.47,metropolis_final.csv
+2019,Coleta de lixo,Região Metropolitana de Natal (RN),3651,0.79,metropolis_final.csv
+2019,Coleta de lixo,Região Metropolitana de João Pessoa (PB),6128,1.54,metropolis_final.csv
+2019,Coleta de lixo,Região Metropolitana de Recife (PE),58919,4.37,metropolis_final.csv
+2019,Coleta de lixo,Região Metropolitana de Maceió (AL),6479,1.38,metropolis_final.csv
+2019,Coleta de lixo,Região Metropolitana de Aracaju (SE),6541,2.04,metropolis_final.csv
+2019,Coleta de lixo,Região Metropolitana de Salvador (BA),10523,0.74,metropolis_final.csv
+2016,Esgotamento,Região Metropolitana de Fortaleza (CE),5941,5.05,metropolis_final.csv
+2016,Esgotamento,Região Metropolitana de Natal (RN),179057,43.37,metropolis_final.csv
+2016,Esgotamento,Região Metropolitana de João Pessoa (PB),1247,3.36,metropolis_final.csv
+2016,Esgotamento,Região Metropolitana de Recife (PE),163532,12.92,metropolis_final.csv
+2016,Esgotamento,Região Metropolitana de Maceió (AL),101355,25.71,metropolis_final.csv
+2016,Esgotamento,Região Metropolitana de Aracaju (SE),9834,3.24,metropolis_final.csv
+2016,Esgotamento,Região Metropolitana de Salvador (BA),42993,3.31,metropolis_final.csv
+2017,Esgotamento,Região Metropolitana de Fortaleza (CE),58819,4.9,metropolis_final.csv
+2017,Esgotamento,Região Metropolitana de Natal (RN),193998,45.4,metropolis_final.csv
+2017,Esgotamento,Região Metropolitana de João Pessoa (PB),1389,3.69,metropolis_final.csv
+2017,Esgotamento,Região Metropolitana de Recife (PE),14375,11.08,metropolis_final.csv
+2017,Esgotamento,Região Metropolitana de Maceió (AL),8741,20.77,metropolis_final.csv
+2017,Esgotamento,Região Metropolitana de Aracaju (SE),15324,5.0,metropolis_final.csv
+2017,Esgotamento,Região Metropolitana de Salvador (BA),45093,3.33,metropolis_final.csv
+2018,Esgotamento,Região Metropolitana de Fortaleza (CE),73375,5.79,metropolis_final.csv
+2018,Esgotamento,Região Metropolitana de Natal (RN),192029,44.46,metropolis_final.csv
+2018,Esgotamento,Região Metropolitana de João Pessoa (PB),17263,4.61,metropolis_final.csv
+2018,Esgotamento,Região Metropolitana de Recife (PE),213634,16.17,metropolis_final.csv
+2018,Esgotamento,Região Metropolitana de Maceió (AL),65759,14.75,metropolis_final.csv
+2018,Esgotamento,Região Metropolitana de Aracaju (SE),19913,6.5,metropolis_final.csv
+2018,Esgotamento,Região Metropolitana de Salvador (BA),22949,1.69,metropolis_final.csv
+2019,Esgotamento,Região Metropolitana de Fortaleza (CE),52818,4.25,metropolis_final.csv
+2019,Esgotamento,Região Metropolitana de Natal (RN),197226,42.83,metropolis_final.csv
+2019,Esgotamento,Região Metropolitana de João Pessoa (PB),12394,3.11,metropolis_final.csv
+2019,Esgotamento,Região Metropolitana de Recife (PE),192033,14.24,metropolis_final.csv
+2019,Esgotamento,Região Metropolitana de Maceió (AL),89881,19.2,metropolis_final.csv
+2019,Esgotamento,Região Metropolitana de Aracaju (SE),31219,9.75,metropolis_final.csv
+2019,Esgotamento,Região Metropolitana de Salvador (BA),37761,2.66,metropolis_final.csv
+2016,Inadequação fundiária,Região Metropolitana de Fortaleza (CE),66027,5.61,metropolis_final.csv
+2016,Inadequação fundiária,Região Metropolitana de Natal (RN),36159,8.76,metropolis_final.csv
+2016,Inadequação fundiária,Região Metropolitana de João Pessoa (PB),12356,3.33,metropolis_final.csv
+2016,Inadequação fundiária,Região Metropolitana de Recife (PE),108977,8.61,metropolis_final.csv
+2016,Inadequação fundiária,Região Metropolitana de Maceió (AL),14798,3.75,metropolis_final.csv
+2016,Inadequação fundiária,Região Metropolitana de Aracaju (SE),16117,5.32,metropolis_final.csv
+2016,Inadequação fundiária,Região Metropolitana de Salvador (BA),90289,6.94,metropolis_final.csv
+2017,Inadequação fundiária,Região Metropolitana de Fortaleza (CE),105129,8.76,metropolis_final.csv
+2017,Inadequação fundiária,Região Metropolitana de Natal (RN),20354,4.76,metropolis_final.csv
+2017,Inadequação fundiária,Região Metropolitana de João Pessoa (PB),29126,7.75,metropolis_final.csv
+2017,Inadequação fundiária,Região Metropolitana de Recife (PE),104493,8.05,metropolis_final.csv
+2017,Inadequação fundiária,Região Metropolitana de Maceió (AL),20725,4.92,metropolis_final.csv
+2017,Inadequação fundiária,Região Metropolitana de Aracaju (SE),17716,5.78,metropolis_final.csv
+2017,Inadequação fundiária,Região Metropolitana de Salvador (BA),169528,12.53,metropolis_final.csv
+2018,Inadequação fundiária,Região Metropolitana de Fortaleza (CE),70083,5.53,metropolis_final.csv
+2018,Inadequação fundiária,Região Metropolitana de Natal (RN),16842,3.9,metropolis_final.csv
+2018,Inadequação fundiária,Região Metropolitana de João Pessoa (PB),50803,13.56,metropolis_final.csv
+2018,Inadequação fundiária,Região Metropolitana de Recife (PE),107752,8.16,metropolis_final.csv
+2018,Inadequação fundiária,Região Metropolitana de Maceió (AL),24899,5.58,metropolis_final.csv
+2018,Inadequação fundiária,Região Metropolitana de Aracaju (SE),14889,4.86,metropolis_final.csv
+2018,Inadequação fundiária,Região Metropolitana de Salvador (BA),170601,12.58,metropolis_final.csv
+2019,Inadequação fundiária,Região Metropolitana de Fortaleza (CE),63878,5.14,metropolis_final.csv
+2019,Inadequação fundiária,Região Metropolitana de Natal (RN),10635,2.31,metropolis_final.csv
+2019,Inadequação fundiária,Região Metropolitana de João Pessoa (PB),48456,12.15,metropolis_final.csv
+2019,Inadequação fundiária,Região Metropolitana de Recife (PE),198198,14.7,metropolis_final.csv
+2019,Inadequação fundiária,Região Metropolitana de Maceió (AL),35878,7.67,metropolis_final.csv
+2019,Inadequação fundiária,Região Metropolitana de Aracaju (SE),696,2.17,metropolis_final.csv
+2019,Inadequação fundiária,Região Metropolitana de Salvador (BA),183962,12.95,metropolis_final.csv
+2016,piso inadequado,Região Metropolitana de Fortaleza (CE),5153,0.44,metropolis_final.csv
+2016,piso inadequado,Região Metropolitana de Natal (RN),6430,0.16,metropolis_final.csv
+2016,piso inadequado,Região Metropolitana de João Pessoa (PB),0,0.0,metropolis_final.csv
+2016,piso inadequado,Região Metropolitana de Recife (PE),3386,0.27,metropolis_final.csv
+2016,piso inadequado,Região Metropolitana de Maceió (AL),6780,0.17,metropolis_final.csv
+2016,piso inadequado,Região Metropolitana de Aracaju (SE),5880,0.19,metropolis_final.csv
+2016,piso inadequado,Região Metropolitana de Salvador (BA),2091,0.16,metropolis_final.csv
+2017,piso inadequado,Região Metropolitana de Fortaleza (CE),3142,0.26,metropolis_final.csv
+2017,piso inadequado,Região Metropolitana de Natal (RN),3180,0.07,metropolis_final.csv
+2017,piso inadequado,Região Metropolitana de João Pessoa (PB),3970,0.11,metropolis_final.csv
+2017,piso inadequado,Região Metropolitana de Recife (PE),2262,0.17,metropolis_final.csv
+2017,piso inadequado,Região Metropolitana de Maceió (AL),4900,0.12,metropolis_final.csv
+2017,piso inadequado,Região Metropolitana de Aracaju (SE),0,0.0,metropolis_final.csv
+2017,piso inadequado,Região Metropolitana de Salvador (BA),1139,0.08,metropolis_final.csv
+2018,piso inadequado,Região Metropolitana de Fortaleza (CE),6066,0.48,metropolis_final.csv
+2018,piso inadequado,Região Metropolitana de Natal (RN),1850,0.04,metropolis_final.csv
+2018,piso inadequado,Região Metropolitana de João Pessoa (PB),2900,0.08,metropolis_final.csv
+2018,piso inadequado,Região Metropolitana de Recife (PE),1689,0.13,metropolis_final.csv
+2018,piso inadequado,Região Metropolitana de Maceió (AL),4490,0.1,metropolis_final.csv
+2018,piso inadequado,Região Metropolitana de Aracaju (SE),4150,0.14,metropolis_final.csv
+2018,piso inadequado,Região Metropolitana de Salvador (BA),1448,0.11,metropolis_final.csv
+2019,piso inadequado,Região Metropolitana de Fortaleza (CE),1526,0.12,metropolis_final.csv
+2019,piso inadequado,Região Metropolitana de Natal (RN),0,0.0,metropolis_final.csv
+2019,piso inadequado,Região Metropolitana de João Pessoa (PB),7480,0.19,metropolis_final.csv
+2019,piso inadequado,Região Metropolitana de Recife (PE),1769,0.13,metropolis_final.csv
+2019,piso inadequado,Região Metropolitana de Maceió (AL),6800,0.15,metropolis_final.csv
+2019,piso inadequado,Região Metropolitana de Aracaju (SE),0,0.0,metropolis_final.csv
+2019,piso inadequado,Região Metropolitana de Salvador (BA),1174,0.08,metropolis_final.csv
+2016,Domicílios inadequados,Região Metropolitana de Fortaleza (CE),554169,47.12,metropolis_final.csv
+2016,Domicílios inadequados,Região Metropolitana de Natal (RN),259525,62.87,metropolis_final.csv
+2016,Domicílios inadequados,Região Metropolitana de João Pessoa (PB),203724,54.83,metropolis_final.csv
+2016,Domicílios inadequados,Região Metropolitana de Recife (PE),783118,61.86,metropolis_final.csv
+2016,Domicílios inadequados,Região Metropolitana de Maceió (AL),234767,59.55,metropolis_final.csv
+2016,Domicílios inadequados,Região Metropolitana de Aracaju (SE),126465,41.71,metropolis_final.csv
+2016,Domicílios inadequados,Região Metropolitana de Salvador (BA),628964,48.36,metropolis_final.csv
+2017,Domicílios inadequados,Região Metropolitana de Fortaleza (CE),553822,46.14,metropolis_final.csv
+2017,Domicílios inadequados,Região Metropolitana de Natal (RN),285290,66.76,metropolis_final.csv
+2017,Domicílios inadequados,Região Metropolitana de João Pessoa (PB),205625,54.69,metropolis_final.csv
+2017,Domicílios inadequados,Região Metropolitana de Recife (PE),819073,63.14,metropolis_final.csv
+2017,Domicílios inadequados,Região Metropolitana de Maceió (AL),238099,56.57,metropolis_final.csv
+2017,Domicílios inadequados,Região Metropolitana de Aracaju (SE),97951,31.98,metropolis_final.csv
+2017,Domicílios inadequados,Região Metropolitana de Salvador (BA),715604,52.88,metropolis_final.csv
+2018,Domicílios inadequados,Região Metropolitana de Fortaleza (CE),578824,45.65,metropolis_final.csv
+2018,Domicílios inadequados,Região Metropolitana de Natal (RN),233677,54.1,metropolis_final.csv
+2018,Domicílios inadequados,Região Metropolitana de João Pessoa (PB),234349,62.56,metropolis_final.csv
+2018,Domicílios inadequados,Região Metropolitana de Recife (PE),894706,67.72,metropolis_final.csv
+2018,Domicílios inadequados,Região Metropolitana de Maceió (AL),232504,52.15,metropolis_final.csv
+2018,Domicílios inadequados,Região Metropolitana de Aracaju (SE),104285,34.05,metropolis_final.csv
+2018,Domicílios inadequados,Região Metropolitana de Salvador (BA),598446,44.14,metropolis_final.csv
+2019,Domicílios inadequados,Região Metropolitana de Fortaleza (CE),528811,42.57,metropolis_final.csv
+2019,Domicílios inadequados,Região Metropolitana de Natal (RN),246709,53.58,metropolis_final.csv
+2019,Domicílios inadequados,Região Metropolitana de João Pessoa (PB),241980,60.7,metropolis_final.csv
+2019,Domicílios inadequados,Região Metropolitana de Recife (PE),1003801,74.44,metropolis_final.csv
+2019,Domicílios inadequados,Região Metropolitana de Maceió (AL),232596,49.69,metropolis_final.csv
+2019,Domicílios inadequados,Região Metropolitana de Aracaju (SE),119118,37.19,metropolis_final.csv
+2019,Domicílios inadequados,Região Metropolitana de Salvador (BA),668754,47.07,metropolis_final.csv
+2016,Abastecimento de água,Nordeste,5076641,38.43,nordeste_final.csv
+2017,Abastecimento de água,Nordeste,5239983,39.13,nordeste_final.csv
+2018,Abastecimento de água,Nordeste,4895094,36.23,nordeste_final.csv
+2019,Abastecimento de água,Nordeste,5138189,36.71,nordeste_final.csv
+2016,Ausência de banheiro,Nordeste,12939,0.98,nordeste_final.csv
+2017,Ausência de banheiro,Nordeste,181179,1.35,nordeste_final.csv
+2018,Ausência de banheiro,Nordeste,211147,1.56,nordeste_final.csv
+2019,Ausência de banheiro,Nordeste,188848,1.35,nordeste_final.csv
+2016,Coleta de lixo,Nordeste,469578,3.56,nordeste_final.csv
+2017,Coleta de lixo,Nordeste,375891,2.81,nordeste_final.csv
+2018,Coleta de lixo,Nordeste,307574,2.28,nordeste_final.csv
+2019,Coleta de lixo,Nordeste,317943,2.27,nordeste_final.csv
+2016,Esgotamento,Nordeste,1913255,14.48,nordeste_final.csv
+2017,Esgotamento,Nordeste,1914982,14.3,nordeste_final.csv
+2018,Esgotamento,Nordeste,1998763,14.79,nordeste_final.csv
+2019,Esgotamento,Nordeste,2074311,14.82,nordeste_final.csv
+2016,Inadequação fundiária,Nordeste,606022,4.59,nordeste_final.csv
+2017,Inadequação fundiária,Nordeste,747768,5.58,nordeste_final.csv
+2018,Inadequação fundiária,Nordeste,688126,5.09,nordeste_final.csv
+2019,Inadequação fundiária,Nordeste,8024,5.73,nordeste_final.csv
+2016,piso inadequado,Nordeste,3998,0.3,nordeste_final.csv
+2017,piso inadequado,Nordeste,30225,0.23,nordeste_final.csv
+2018,piso inadequado,Nordeste,39884,0.3,nordeste_final.csv
+2019,piso inadequado,Nordeste,29342,0.21,nordeste_final.csv
+2016,Domicílios inadequados,Nordeste,8375961,63.41,nordeste_final.csv
+2017,Domicílios inadequados,Nordeste,8527932,63.69,nordeste_final.csv
+2018,Domicílios inadequados,Nordeste,8305239,61.47,nordeste_final.csv
+2019,Domicílios inadequados,Nordeste,8682513,62.03,nordeste_final.csv
