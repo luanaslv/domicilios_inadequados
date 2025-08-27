@@ -1,143 +1,165 @@
 # Análise de Domicílios Inadequados no Nordeste (2016–2019)
 
-## **Resumo curto**
+**Visão rápida**
 
 Projeto para analisar e visualizar domicílios inadequados no Nordeste (estados e regiões metropolitanas) usando dados públicos da **Fundação João Pinheiro**. Pipeline reprodutível: coleta → tratamento → padronização → modelagem relacional (MySQL) → consultas analíticas → exportação para Power BI.
 
-## **Objetivos**
+---
 
-* Construir um pipeline reprodutível em Python (Pandas) para transformar planilhas públicas em CSVs padronizados.
-* Modelar e carregar os dados em MySQL (XAMPP) de forma estruturada.
-* Gerar consultas analíticas e exportá-las como CSVs prontos para consumo no Power BI.
-* Criar dashboards que permitam comparar Nordeste, estados e metrópoles entre 2016–2019.
+## Sumário
 
-## **Fonte dos dados**
+* [Motivação](#motivação)
+* [Estrutura do repositório](#estrutura-do-repositório)
+* [Formato dos dados finais](#formato-dos-dados-finais)
+* [Pré-requisitos](#pré-requisitos)
+* [Como rodar (quickstart)](#como-rodar-quickstart)
+* [Integração com Power BI](#integração-com-power-bi)
+* [Modelagem sugerida (MySQL)](#modelagem-sugerida-mysql)
+* [Checklist / Lousa](#checklist--lousa)
+* [Próximos passos recomendados](#próximos-passos-recomendados)
+* [Licença e créditos](#licença-e-créditos)
 
-Dados originais: Fundação João Pinheiro — arquivo `2023.06.15_REPONDERADO0112_Dados-Inadequacao-de-Domicilios-2016-2019` (planilhas públicas).
+---
 
-## **Estrutura do repositório**
+## Motivação
+
+Analisar padrões e evolução de domicílios inadequados no Nordeste (2016–2019) para apoiar visualizações e possíveis recomendações de políticas públicas.
+
+---
+
+## Estrutura do repositório
 
 ```
 domicilios_inadequados/
 ├── data/
-│   ├── raw/            # dados brutos (downloads das planilhas)
-│   ├── processed/      # arquivos processados intermediários
-│   ├── filtered/       # filtragens (estados/, metropolis/, nordeste/)
-│   ├── final/          # consolidados finais (padronizados)
-│   └── exports/        # CSVs resultantes das consultas (prontos para BI)
+│   ├── raw/            # downloads originais (.csv exportados das planilhas)
+│   ├── processed/      # processados intermediários (normalização de colunas)
+│   ├── filtered/       # filtragens por escopo (estados/, metropolis/, nordeste/)
+│   ├── final/          # CSVs finais padronizados (prontos para DB/BI)
+│   └── exports/        # CSVs gerados pelas queries analíticas (para BI)
 ├── scripts/
 │   ├── coleta/         # 01_coleta_dados.py
 │   ├── tratamento/     # 02_.. 03_.. 04_padronizacao_csvs.py
 │   ├── modelagem/      # 05_importa_mysql.py
-│   ├── integracao/     # scripts para consolidar/exportar
-│   └── analise/        # scripts que geram exports (consultas -> CSV)
+│   ├── integracao/     # scripts de consolidação
+│   └── analise/        # consultas + exportação (scripts/analise)
+├── .gitignore
+├── requirements.txt
 ├── README.md
-└── requirements.txt
+└── LICENSE
 ```
 
-## **Formato esperado — CSVs finais**
+---
 
-Todos os CSVs em `data/final/` devem ter este esquema (consistente para importação automática):
+## Formato dos dados finais
+
+Todos os CSVs em `data/final/` devem seguir este esquema (colunas e tipos):
 
 ```
 ano,inadequacao,regiao,contagem,valor_percentual
 ```
 
-* `ano`: inteiro (2016–2019)
-* `inadequacao`: texto (ex.: `Abastecimento de água`)
-* `regiao`: nome da localidade (estado ou região metropolitana)
-* `contagem`: número absoluto (inteiro)
-* `valor_percentual`: percentual como `float` (ex.: `45.8`)
+* `ano`: INTEGER (2016–2019)
+* `inadequacao`: TEXT (ex.: `Abastecimento de água`)
+* `regiao`: TEXT (estado ou nome da RM)
+* `contagem`: INTEGER (número absoluto)
+* `valor_percentual`: FLOAT (ex.: `45.8`)
 
-## **Quickstart — pré-requisitos**
+Manter esse padrão evita erros ao criar tabelas e carregar para o MySQL ou no Power BI.
+
+---
+
+## Pré-requisitos
 
 * Python 3.8+
-* `pip` e virtualenv
-* Bibliotecas: `pandas`, `sqlalchemy`, `pymysql` (ou `mysql-connector-python`) — ver `requirements.txt`
 * MySQL (XAMPP) em execução
-* (Opcional) Conta no GitHub para publicar `data/exports/infraestrutura_final.csv` e usar o link raw no Power BI
+* Recomenda-se virtualenv
 
-## **Instalação rápida (exemplo POSIX)**
+Instalação das dependências:
 
 ```bash
 python -m venv .venv
+# Windows
+.venv\Scripts\activate
+# POSIX
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## **Rodando o pipeline (etapas principais)**
+---
 
-1. **Coleta** (baixa as planilhas via Google Sheets):
+## Como rodar (quickstart)
+
+1. Coleta:
 
 ```bash
 python scripts/coleta/01_coleta_dados.py
 ```
 
-2. **Limpeza e padronização** (colunas, encoding):
+2. Limpeza / padronização inicial:
 
 ```bash
 python scripts/tratamento/02_limpeza_padronizacao.py
 ```
 
-3. **Filtragem por região** (gera `data/filtered/{estados,metropolis,nordeste}`):
+3. Filtragem por escopo (gera `data/filtered/`):
 
 ```bash
 python scripts/tratamento/03_filtragem_regioes.py
 ```
 
-4. **Padronização relacional (CSV final)** (gera `data/final/*_final.csv`):
+4. Padronização relacional (gera `data/final/*_final.csv`):
 
 ```bash
 python scripts/tratamento/04_padronizacao_csvs.py
 ```
 
-5. **Criar banco e importar dados (MySQL)** — ajuste credenciais em `scripts/modelagem/05_importa_mysql.py` e execute:
+5. Importar para MySQL (ajuste credenciais em `scripts/modelagem/05_importa_mysql.py`):
 
 ```bash
 python scripts/modelagem/05_importa_mysql.py
 ```
 
-6. **Executar consultas de análise e exportar**:
+6. Gerar exports (consultas → `data/exports/`):
 
 ```bash
 python scripts/analise/06_exporta_consultas.py
 ```
 
-## **Notas sobre MySQL / XAMPP**
+---
 
-* No XAMPP Control Panel, inicie o MySQL.
-* Conexão padrão: `host=localhost`, `port=3306` — ajuste usuário/senha conforme sua instalação.
-* Os scripts de importação criam tabelas se não existirem; para recriar do zero, execute `DROP TABLE` ou remova o banco no MySQL Workbench.
+## Integração com Power BI
 
-## **Exportações / Consultas (data/exports) — resumo e propósito**
+Opções para conectar dados ao Power BI Desktop:
 
-Os CSVs em `data/exports/` são o produto das consultas analíticas e servem como insumo direto para o Power BI. Abaixo um resumo das exports já implementadas (com descrição curta):
+* **Local**: `Get Data` → `Text/CSV` → selecionar `data/final/infraestrutura_final.csv`.
+* **GitHub raw** (recomendado se publicar no repo): commit de `data/exports/infraestrutura_final.csv` e use o link raw no Power BI (`Get Data` → `Web`).
 
-* `00_anos_disponiveis_por_tabela.csv` — cobertura temporal por indicador (útil para validar anos disponíveis antes da análise).
-* `01_top5_estados_2019_domicilios_inadequados.csv` — top 5 estados por contagem/% de domicílios inadequados em 2019.
-* `02_top5_metropolis_2019_abastecimento.csv` — top 5 RMs do Nordeste com maior problema em abastecimento no ano de 2019.
-* `03_evolucao_pernambuco_abastecimento.csv` — série temporal (2016–2019) de abastecimento para Pernambuco; usado para analisar tendências locais.
-* `04_lag_variacao_por_estado_Domicílios_inadequados.csv` — variação absoluta entre 2016 e 2019 por estado (identifica aumentos/quedas maiores).
-* `05_resumo_estatistico_estado_indicador.csv` — medidas descritivas (média/mediana/std) por estado e indicador para comparar dispersões.
-* `06_diff_2019_2016_top50.csv` — top 50 localidades com maior variação absoluta entre 2016 e 2019 (útil para priorização).
-* `07_media_estado_indicador_for_heatmap.csv` — média percentual por estado e indicador, formatado para heatmap no Power BI.
-* `08_alertas_outliers.csv` — observações com z-score alto (potenciais outliers) para inspeção manual.
-* `09_comparativo_estado_metropole_2019_abastecimento.csv` — comparação direta entre estados e suas metrópoles para abastecimento (2019).
-* `infraestrutura_final.csv` — consolidação mestre de todos os indicadores/localidades no formato final (pronto para BI/GitHub raw).
+Se preferir automatizar a atualização, podemos criar um script que atualize o CSV no repositório via API GitHub ou servir via um endpoint simples.
 
-## **Integração com Power BI**
+---
 
-Opções para alimentar o Power BI Desktop:
+## Modelagem sugerida (MySQL)
 
-* **Manual (local)**: `Get Data` → `CSV` → selecionar `data/final/infraestrutura_final.csv` localmente.
-* **Via GitHub raw** (recomendado para relatórios públicos/compartilhados): commit em `data/exports/infraestrutura_final.csv`, copie o link raw e em Power BI: `Get Data` → `Web` → cole o link.
-
-## **Observações sobre modelagem relacional (para MySQL)**
-
-O formato final `ano,inadequacao,regiao,contagem,valor_percentual` permite modelagem simples em uma tabela fato (fato\_inadequacao) e dimensões auxiliares (dim\_indicador, dim\_localidade) se você quiser normalizar:
+Para análises eficientes e escaláveis, sugerimos uma modelagem com dimensões e fato:
 
 * `dim_indicador(indicador_id, nome)`
-* `dim_localidade(localidade_id, nome, tipo(Estado/Metropole), uf)`
+* `dim_localidade(localidade_id, nome, tipo, uf)`
 * `fato_inadequacao(id, localidade_id, indicador_id, ano, contagem, valor_percentual)`
 
-Essa modelagem facilita joins e queries performáticas para dashboards.
+Vantagem: facilita joins, índices e agregações rápidas para dashboards.
+
+---
+
+## Checklist (Lousa) — status atual
+
+* [x] Coleta dos dados via Google Sheets
+* [x] Limpeza e padronização básica
+* [x] Filtragem Nordeste / Estados / Metrópoles
+* [x] Consolidação final em `data/final/`
+* [x] Importação básica em MySQL (tabelas criadas)
+* [x] Consultas analíticas exportadas (`data/exports/`)
+* [ ] Dashboard Power BI (pendente)
+* [ ] Docker (opcional: MySQL + Grafana)
+
+---
