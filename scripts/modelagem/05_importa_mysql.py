@@ -68,7 +68,6 @@ for table_name, schema in TABLE_SCHEMAS.items():
 # Função para importar CSV
 def importa_csv_para_mysql(csv_path, table_name):
     df = pd.read_csv(csv_path)
-    # Substitui vírgula por ponto no valor percentual e converte para float
     df['valor_percentual'] = df['valor_percentual'].astype(str).str.replace(',', '.').astype(float)
 
     for _, row in df.iterrows():

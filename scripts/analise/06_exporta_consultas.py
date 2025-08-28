@@ -1,9 +1,6 @@
 # scripts/analise/06_exporta_consultas.py
 """
-Executa queries analíticas no banco MySQL e exporta resultados para CSV.
-Ajustes:
- - Atualize DB_CONFIG com host/user/password/database corretos.
- - Os CSVs serão salvos em data/exports/.
+Este script executa queries analíticas no banco MySQL e exporta resultados para CSV.
 """
 
 import os
@@ -12,23 +9,21 @@ import pandas as pd
 import mysql.connector
 from mysql.connector import Error
 
-# ------------- CONFIG -------------
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "",              # <-- ajuste se necessário
-    "database": "infraestrutura_nordeste"  # <-- ajuste se necessário
+    "password": "",            
+    "database": "infraestrutura_nordeste"  
 }
 
 OUTPUT_DIR = Path("data/exports")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Parâmetros de análise (mude se quiser)
+# Parâmetros de análise 
 ANALYSIS_YEAR = 2019
 TOP_N = 5
 INDICADOR_DOMICILIOS = "Domicílios inadequados"
 INDICADOR_ABAST = "Abastecimento de água"
-# -----------------------------------
 
 def connect():
     try:
@@ -48,7 +43,7 @@ def run_and_save(df_query, filename):
 def main():
     conn = connect()
     try:
-        # Use pandas.read_sql_query que aceita conexões DB-API
+
         # 0) Verificação de anos disponíveis (rápida)
         q0 = """
         SELECT 'estados' AS tabela, MIN(ano) AS ano_min, MAX(ano) AS ano_max FROM estados

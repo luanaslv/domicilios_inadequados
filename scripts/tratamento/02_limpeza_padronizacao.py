@@ -19,7 +19,7 @@ def tratar_csv(nome_arquivo):
     print(f"\n[INFO] Lendo {caminho_entrada}...")
     df = pd.read_csv(caminho_entrada)
 
-    # Exemplo de padronização (ajuste conforme necessidade real)
+    # Exemplo de padronização 
     df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
 
     # Salva o arquivo tratado

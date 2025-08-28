@@ -135,8 +135,6 @@ Opções para conectar dados ao Power BI Desktop:
 * **Local**: `Get Data` → `Text/CSV` → selecionar `data/final/infraestrutura_final.csv`.
 * **GitHub raw** (recomendado se publicar no repo): commit de `data/exports/infraestrutura_final.csv` e use o link raw no Power BI (`Get Data` → `Web`).
 
-Se preferir automatizar a atualização, podemos criar um script que atualize o CSV no repositório via API GitHub ou servir via um endpoint simples.
-
 ---
 
 ## Modelagem sugerida (MySQL)
@@ -160,6 +158,6 @@ Vantagem: facilita joins, índices e agregações rápidas para dashboards.
 * [x] Importação básica em MySQL (tabelas criadas)
 * [x] Consultas analíticas exportadas (`data/exports/`)
 * [ ] Dashboard Power BI (pendente)
-* [ ] Docker (opcional: MySQL + Grafana)
+* [ ] Docker (opcional: MySQL + Grafana) (a concluir)
 
 ---
